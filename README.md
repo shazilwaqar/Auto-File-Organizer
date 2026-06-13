@@ -57,7 +57,7 @@ Example:
 ## 📸 Screenshots
 
 ### Before
-![Before](screenshots/before.png)
+![Before](screenshots/Before.png)
 
 ### After
-![After](screenshots/after.png)
+![After](screenshots/After.png)
